@@ -1,9 +1,15 @@
 Hello, World
+Bye, World
 How are you
 I am fine
 Nitin the great
 Pure of world
 pottyness
 holiness
+<<<<<<< HEAD
 notiness
 mingless
+=======
+checking
+mindless
+>>>>>>> relaxing
